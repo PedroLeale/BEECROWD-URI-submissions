@@ -2,8 +2,11 @@
 #include <iostream>
 using namespace std;
 
-//Just another code to test quicksort
-//Apenas outro codigo para testar o quicksort 
+//Just another code to test quicksort 
+//THIS IS NOT A SOLUTION FOR A BEECROWD/URI PROBLEM 
+//Apenas outro codigo para testar o quicksort
+//ISTO NAO EH A SOLUCAO DE UM PROBLEMA DE BEECROWD/URI
+
 
 int particiona(int *V,int inicio, int fim){
   int esq,dir,pivo,aux;
